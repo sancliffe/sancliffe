@@ -25,6 +25,7 @@ I am currently seeking employment opportunities.
 
 <p align="left">
      <a href="https://www.credly.com/badges/79593b92-912a-4fab-a6d3-66256652866a/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/google-secure-networks.png" width="76" height="76" alt="google-sec-net" /></a>
+     <a href="https://www.credly.com/badges/9415205b-91c9-440d-af29-72c97a145aa8/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/google-networks.png" width="76" height="76" alt="google-net" /></a>     
      <a href="https://www.credly.com/badges/56e2295b-95e6-486c-9ccc-98d861e8639a/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/google-git-workflow.png" width="76" height="76" alt="google-git" /></a>
      <a href="https://www.credly.com/badges/06c733b1-dac7-4a79-af63-6d8d4793d472/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/pentest.png" width="76" height="76" alt="pentest" /></a>
       <a href="https://www.credly.com/badges/fa79245a-bc6a-4a31-b9b9-f57512e4c1c0/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/cysa.png" width="76" height="76" alt="cysa" /></a>
