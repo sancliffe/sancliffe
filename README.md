@@ -24,6 +24,8 @@ I am currently seeking employment opportunities.
 ### 🏆 Certifications
 
 <p align="left">
+     <a href="https://www.credly.com/badges/f8c7100a-40e0-4db5-91c6-ed6661625131/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/google-infra-terraform.png" width="200" height="200" alt="google-infra-terraform" /></a>
+     <a href="https://www.credly.com/badges/4d0e7877-0d1d-434b-9cdf-05986b4ca61e/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/google-log-monitor.png" width="200" height="200" alt="google-log-monitor" /></a>
      <a href="https://www.credly.com/badges/79593b92-912a-4fab-a6d3-66256652866a/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/google-secure-networks.png" width="200" height="200" alt="google-sec-net" /></a>
      <a href="https://www.credly.com/badges/9415205b-91c9-440d-af29-72c97a145aa8/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/google-networks.png" width="200" height="200" alt="google-net" /></a>     
      <a href="https://www.credly.com/badges/56e2295b-95e6-486c-9ccc-98d861e8639a/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/google-git-workflow.png" width="200" height="200" alt="google-git" /></a>
