@@ -10,7 +10,7 @@ I am a passionate technologist bridging the gap between development and operatio
 | ☁️ Cloud & IaC             | Google Cloud Platform (GCP), Terraform |
 | 🤖 Automation              | Bash, Ansible, PowerShell              |
 | 💻 Languages               | Python, C#                             |
-| 📄 File Format preferences | yaml, json                             |
+| 📄 File Format Preferences | yaml, json                             |
 
 ### 🚀 What I'm Up To
 
