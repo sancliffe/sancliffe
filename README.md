@@ -24,44 +24,22 @@ I am currently seeking employment opportunities.
 
 ### 🏆 Certifications
 
-Credly profile 30+ badges and counting.
+Credly profile 30 plus badges and counting.
 
 <a href="https://www.credly.com/users/sancliffe" target="_blank" rel="noreferrer">Credly</a>
 
 ### 💻 Development
 
-<p>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /></a>
-  <a href="https://microsoft.com/powershell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/powershell-colored.svg" width="36" height="36" alt="Powershell" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://podman.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/podman-logo.svg" width="36" height="36" alt="Podman" /></a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/ansible.svg" width="36" height="36" alt="Ansible" /></a>
-</p>
+<p><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://microsoft.com/powershell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/powershell-colored.svg" width="36" height="36" alt="Powershell" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://podman.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/podman-logo.svg" width="36" height="36" alt="Podman" /></a><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/ansible.svg" width="36" height="36" alt="Ansible" /></a></p>
 
 ### ⚙️ System Administration
 
-<p>
-  <a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/Windows_logo_-_2021.svg" width="36" height="36" alt="Windows" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
+<p><a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/Windows_logo_-_2021.svg" width="36" height="36" alt="Windows" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a></p>
 
 ### 🗄️ Databases
 
-<p>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/mssql.svg" width="36" height="36" alt="MsSQL" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/mariadb.svg" width="36" height="36" alt="MariaDB" /></a>
-</p>
+<p><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/mssql.svg" width="36" height="36" alt="MsSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/mariadb.svg" width="36" height="36" alt="MariaDB" /></a></p>
 
 ### 🎨 Design
 
-<p>
-  <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="https://www.adobe.com/ca/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-</p>
+<p><a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/ca/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a></p>
