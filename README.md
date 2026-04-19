@@ -1,45 +1,76 @@
-# Hi there! 👋 I'm a Cloud & Linux Enthusiast
+<div align="center">
 
-I am a passionate technologist bridging the gap between development and operations. My focus is on building scalable infrastructure on Google Cloud Platform and automating complex workflows within Linux environments.
+# Hey, I'm Steve 👋
+### Cloud & Linux Engineer | DevOps Enthusiast | GCP Specialist
 
-### 🛠️ Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/stephen-ancliffe/)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing)
+[![Credly](https://img.shields.io/badge/Credly-30%2B_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sancliffe)
 
-| Category                  | Technologies                           |
-|---------------------------|----------------------------------------|
-| 🐧 OS & Linux             | Fedora, Ubuntu, RHEL                   |
-| ☁️ Cloud & IaC            | Google Cloud Platform (GCP), Terraform |
-| 🤖 Automation             | Bash, Ansible, PowerShell              |
-| 💻 Languages              | Python, C#                             |
-| 📄 File Format Preferences| YAML, JSON                             |
+</div>
 
-### 🚀 What I'm Up To
+---
 
-I love automating the boring stuff! Feel free to explore my repositories to see my IaC scripts and automation tools in action.
+## 🙋 About Me
 
-### 💼 Open to Work
+I'm a passionate technologist bridging the gap between development and operations. My focus is on building **scalable infrastructure on Google Cloud Platform** and automating complex workflows within Linux environments.
 
-I am currently seeking employment opportunities.
+- 🌍 Based in **Canada**
+- 🔭 Currently working on **GCP infrastructure & automation**
+- 🌱 Always learning something new in the cloud & DevOps space
+- 💼 **Open to work** — actively seeking new opportunities
+- 🏆 **30+ certifications** on Credly and counting
 
-📄 <a href="https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing" target="_blank" rel="noreferrer">View My Resume</a>
+---
 
-### 🏆 Certifications
+## 🛠️ Tech Stack
 
-Credly profile 30 plus badges and counting.
+**Cloud & Infrastructure**
 
-<a href="https://www.credly.com/users/sancliffe" target="_blank" rel="noreferrer">Credly</a>
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 
-### 💻 Development
+**Operating Systems**
 
-<p><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://microsoft.com/powershell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/powershell-colored.svg" width="36" height="36" alt="Powershell" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://podman.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/podman-logo.svg" width="36" height="36" alt="Podman" /></a><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/ansible.svg" width="36" height="36" alt="Ansible" /></a></p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### ⚙️ System Administration
+**Languages & Scripting**
 
-<p><a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/Windows_logo_-_2021.svg" width="36" height="36" alt="Windows" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🗄️ Databases
+**Databases**
 
-<p><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/mssql.svg" width="36" height="36" alt="MsSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/mariadb.svg" width="36" height="36" alt="MariaDB" /></a></p>
+![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### 🎨 Design
+**Tools & Design**
 
-<p><a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/ca/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sancliffe/sancliffe/refs/heads/main/images/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a></p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+**Formats**
+
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+---
+
+<div align="center">
+
+*"Automate the boring stuff — then automate the interesting stuff too."*
+
+</div>
