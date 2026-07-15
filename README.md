@@ -3,7 +3,7 @@
 # Hey, I'm Steve 👋
 ### Cloud & Linux Engineer | DevOps Enthusiast | GCP Specialist
 
-[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/10UBk5IRcMnrKU_WSzK4kloqfhpvh-LBqPQDZHWUQugU/edit?usp=sharing)
 [![Credly](https://img.shields.io/badge/Credly-30%2B_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sancliffe)
 [![Google Skills](https://img.shields.io/badge/Google_Skills-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/e379fe38-f466-4eea-b647-c22ebe48a16c)
 
